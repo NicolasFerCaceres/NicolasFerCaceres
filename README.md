@@ -1,5 +1,8 @@
 ### Hi there 👋 / Hola como estas? 👋
 
+Hola soy Nicolas Flores Desarollador Web trainee y actualmente desempeño tareas como tester QA.
+
+
 <!--
 **NicolasFerCaceres/NicolasFerCaceres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
